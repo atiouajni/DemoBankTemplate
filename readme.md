@@ -3,7 +3,7 @@ ACME App is a cloud native demo application. It's based on 5 microservices that 
 
 [![Screenshot of store homepage](./docs/img/acme-store.png)](./docs/img/acme-store.png) 
 
-
+# Architecture
 | Service name | Language | Description |
 |--|--|--|
 | firstmicroservice | Java | Provide all CRUD action for an item|
