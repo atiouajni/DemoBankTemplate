@@ -1,0 +1,1 @@
+This folder contains all resources needed to be used during setup/installation/cleanup process
