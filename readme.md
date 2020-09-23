@@ -1,9 +1,7 @@
 # Introduction
 ACME App is a cloud native demo application. It's based on 5 microservices that communicate with each other to provide users a full e-commerce application. Users will be able to browse items, add them to the cart, and purchase them.
 
-| Home Page                                                                                                         | Checkout Screen                                                                                                    |
-| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| [![Screenshot of store homepage](./docs/img/acme-store.png)](./docs/img/acme-store.png) | [![Architecture overview](./docs/img/Point-to-Point-archi.png)](./docs/img/Point-to-Point-archi.png) |
+[![Screenshot of store homepage](./docs/img/acme-store.png)](./docs/img/acme-store.png) 
 
 
 | Service name | Language | Description |
